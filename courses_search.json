@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Foundations of Effective Leadership: Building Essential Skills for New Leaders",
+    "subtitle": "Developing the Core Skills for Successful Leadership",
+    "type": "Online Learning",
+    "start_date": "Nov 5",
+    "start_end_date": "5 November 2024 10:00 AM - 5 November 2024 12:00 PM",
+    "location": "Online",
+    "running_time": "2 hours",
+    "language": "English",
+    "skills": [
+      { "skill_name": "Communication", "skill_level": "Beginner" },
+      { "skill_name": "Decision-Making", "skill_level": "Beginner" }
+    ],
+    "description": "A foundational course designed to introduce key leadership principles for effectively managing and inspiring teams."
+  },
+  {
+    "title": "Leadership in Action: Practical Skills for Supervisors and Managers",
+    "subtitle": "Enhancing Leadership through Real-World Scenarios",
+    "type": "Classroom Training",
+    "start_date": "Nov 15",
+    "start_end_date": "15 November 2024 1:00 PM - 15 November 2024 4:00 PM",
+    "location": "Munich",
+    "running_time": "3 hours",
+    "language": "German",
+    "skills": [
+      { "skill_name": "Conflict Resolution", "skill_level": "Intermediate" },
+      { "skill_name": "Team Management", "skill_level": "Intermediate" }
+    ],
+    "description": "Hands-on course for developing practical skills in leadership, focusing on communication, conflict management, and team cohesion."
+  },
+  {
+    "title": "Strategic Vision and Leadership Development: Aligning Teams with Goals",
+    "subtitle": "Creating and Communicating a Vision for Long-Term Success",
+    "type": "Face-to-Face Training",
+    "start_date": "Nov 18",
+    "start_end_date": "18 November 2024 9:00 AM - 18 November 2024 1:00 PM",
+    "location": "Berlin",
+    "running_time": "4 hours",
+    "language": "English",
+    "skills": [
+      { "skill_name": "Strategic Thinking", "skill_level": "Advanced" },
+      { "skill_name": "Goal Setting", "skill_level": "Advanced" }
+    ],
+    "description": "Advanced training that teaches leaders how to set, communicate, and achieve strategic goals within their teams."
+  },
+  {
+    "title": "Essential Team Leadership: Building Trust and Collaboration",
+    "subtitle": "A Guide to Managing and Inspiring Effective Teams",
+    "type": "On-Demand Training",
+    "start_date": "Anytime",
+    "start_end_date": "Anytime",
+    "location": "Online",
+    "running_time": "1.5 hours",
+    "language": "English",
+    "skills": [
+      { "skill_name": "Team Building", "skill_level": "Beginner" },
+      { "skill_name": "Motivation", "skill_level": "Beginner" }
+    ],
+    "description": "Focused on team dynamics, this course covers best practices for building a motivated and cohesive team environment."
+  },
+  {
+    "title": "Conflict Resolution Mastery: Essential Skills for Effective Leaders",
+    "subtitle": "Navigating Team Conflicts with Confidence and Clarity",
+    "type": "Online Learning",
+    "start_date": "Nov 10",
+    "start_end_date": "10 November 2024 2:00 PM - 10 November 2024 4:00 PM",
+    "location": "Online",
+    "running_time": "2 hours",
+    "language": "English",
+    "skills": [
+      { "skill_name": "Conflict Resolution", "skill_level": "Intermediate" },
+      { "skill_name": "Communication", "skill_level": "Intermediate" }
+    ],
+    "description": "Learn tools for resolving workplace conflicts constructively, a key skill for maintaining a healthy team environment."
+  },
+  {
+    "title": "Leading Remote Teams with Confidence: Virtual Leadership Skills for Modern Managers",
+    "subtitle": "Strategies to Foster Collaboration in Remote Environments",
+    "type": "Classroom Training",
+    "start_date": "Nov 20",
+    "start_end_date": "20 November 2024 10:00 AM - 20 November 2024 1:00 PM",
+    "location": "Hamburg",
+    "running_time": "3 hours",
+    "language": "German",
+    "skills": [
+      { "skill_name": "Remote Management", "skill_level": "Intermediate" },
+      { "skill_name": "Digital Communication", "skill_level": "Intermediate" }
+    ],
+    "description": "Learn best practices for leading remote teams, including digital communication and collaboration tools to boost team engagement."
+  },
+  {
+    "title": "Empowering Your Workforce: Motivational Techniques for Leaders",
+    "subtitle": "Inspiring and Engaging Your Team for Better Results",
+    "type": "Face-to-Face Training",
+    "start_date": "Nov 12",
+    "start_end_date": "12 November 2024 9:00 AM - 12 November 2024 1:00 PM",
+    "location": "Frankfurt",
+    "running_time": "4 hours",
+    "language": "English",
+    "skills": [
+      { "skill_name": "Motivation", "skill_level": "Beginner" },
+      { "skill_name": "Engagement", "skill_level": "Beginner" }
+    ],
+    "description": "Focus on the strategies to motivate your team, foster engagement, and drive performance in this hands-on leadership workshop."
+  },
+  {
+    "title": "Crisis Management for Leaders: Decision-Making in High-Stakes Situations",
+    "subtitle": "Skills for Handling Pressure and Leading in Critical Times",
+    "type": "Online Learning",
+    "start_date": "Nov 8",
+    "start_end_date": "8 November 2024 2:00 PM - 8 November 2024 5:00 PM",
+    "location": "Online",
+    "running_time": "3 hours",
+    "language": "English",
+    "skills": [
+      { "skill_name": "Crisis Management", "skill_level": "Advanced" },
+      { "skill_name": "Decision-Making", "skill_level": "Advanced" }
+    ],
+    "description": "Designed for experienced leaders, this course builds on critical thinking skills and teaches methods for effective decision-making during crises."
+  },
+  {
+    "title": "Inclusive Leadership: Promoting Diversity and Building Inclusive Teams",
+    "subtitle": "How to Create a Culture of Inclusion and Equity",
+    "type": "On-Demand Training",
+    "start_date": "Anytime",
+    "start_end_date": "Anytime",
+    "location": "Online",
+    "running_time": "2 hours",
+    "language": "English",
+    "skills": [
+      { "skill_name": "Cultural Competency", "skill_level": "Beginner" },
+      { "skill_name": "Team Building", "skill_level": "Beginner" }
+    ],
+    "description": "Discover how to foster an inclusive environment and leverage the strengths of diverse teams to drive innovation and collaboration."
+  },
+  {
+    "title": "Transformational Leadership: Empowering Leaders to Drive Organizational Change",
+    "subtitle": "Methods for Visionary Leaders to Inspire Transformation",
+    "type": "Classroom Training",
+    "start_date": "Nov 22",
+    "start_end_date": "22 November 2024 9:00 AM - 22 November 2024 2:00 PM",
+    "location": "Stuttgart",
+    "running_time": "5 hours",
+    "language": "German",
+    "skills": [
+      { "skill_name": "Visionary Leadership", "skill_level": "Advanced" },
+      { "skill_name": "Change Management", "skill_level": "Advanced" }
+    ],
+    "description": "This workshop equips leaders with tools to inspire and implement change, focusing on visionary strategies and engagement practices."
+  }
+]
